@@ -5,7 +5,6 @@
 <p align="center">
 <img src="Screenshots/course-goals-app-android.gif" width="320" height="550" />
 <img src="Screenshots/course-goals-app-ios.gif" width="300" height="550" />
-
 </p>
 
 ## Functionality of App
