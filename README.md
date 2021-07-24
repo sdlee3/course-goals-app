@@ -1,5 +1,10 @@
 # Course Goals App
-Basic Example to add Goals into the list in React Native
+## Basic Example to add Goals into the list in React Native
+
+
+<p align="center">
+<img src="Screenshots/course-goals-app.gif" width="300" height="480" />
+</p>
 
 ## Functionality of App
 - Show up modal to input goals
