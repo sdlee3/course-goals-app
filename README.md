@@ -3,7 +3,12 @@
 
 
 <p align="center">
-<img src="Screenshots/course-goals-app.gif" width="300" height="480" />
+<img src="Screenshots/course-goals-app-android.gif" width="320" height="550" />
+<img src="Screenshots/course-goals-app-ios.gif" width="300" height="550" />
+<!-- <video width="300" height="480" controls>
+  <source src="Screenshots/course-goals-app-ios.mp4" type="video/mp4">
+</video> -->
+
 </p>
 
 ## Functionality of App
